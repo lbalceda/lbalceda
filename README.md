@@ -1,5 +1,5 @@
 ### Hi there 👋
-🚧 Cat Mobile Apps @ Caterpillar Inc 🚧
+🚧 Cat Mobile Apps @ Caterpillar Inc ![Caterpillar](https://img.shields.io/badge/-000?&logo=caterpillar) 🚧
 
 <!--
 **lbalceda/lbalceda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
